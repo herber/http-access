@@ -1,0 +1,24 @@
+{
+  "name": "http-access",
+  "main": "app.js",
+  "repository": {
+    "url": "https://github.com/tobihrbr/http-access.git",
+    "type": "git"
+  },
+  "version": "1.0.0",
+  "description": "check http access",
+  "keywords": [
+    "http",
+    "access",
+    "fetch",
+    "check"
+  ],
+  "license": "MIT",
+  "author": "tobihrbr",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
